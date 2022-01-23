@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-server-practice",
+  "version": "1.0.0",
+  "description": "Practice node.js server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DetegiCE/nodejs-server-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DetegiCE/nodejs-server-practice/issues"
+  },
+  "homepage": "https://github.com/DetegiCE/nodejs-server-practice#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
